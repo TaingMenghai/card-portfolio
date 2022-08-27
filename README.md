@@ -1,12 +1,12 @@
-## portfolio website
+## Digital Card Portfolio
 
 ## Built with
 
-- [Reactjs](https://reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Chakra UI](https://chakra-ui.com)
-- [Framer Motion](https://www.framer.com/motion/)
-- [react icons](https://react-icons.github.io/react-icons/)
+- [Reactjs](https://reactjs.org/): Javascript Frontend Library to build interactive frontend application
+- [Typescript](https://www.typescriptlang.org/): to build robust, more scalable application
+- [Chakra UI](https://chakra-ui.com): React UI library
+- [Framer Motion](https://www.framer.com/motion/): For animation
+- [react icons](https://react-icons.github.io/react-icons/): For icons
 
 ## License
 
